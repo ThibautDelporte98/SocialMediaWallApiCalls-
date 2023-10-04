@@ -1,0 +1,11 @@
+@import "settings";
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Poppins", Arial, Helvetica, sans-serif !important;
+    font-weight: $fw-semi;
+    font-size: 1rem !important;
+}
